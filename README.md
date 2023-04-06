@@ -1,6 +1,6 @@
 # Reinforcement-learning-in-Cuda
 Multi-Agent Reinforcement Learning on CUDA  and Actor Critic (A2C) algorithm for final project. The environment of this project is shown below.
-<img src="demo.png" alt="Alt text" title="Environment" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="demo.png" alt="Alt text" title="Environment" style="display: inline-block; margin: 0 auto; max-width: 100px">
 ## Part 1
 Multi-Agent Reinforcement Learning on CUDA. In this project, we use cuda to update the agent based on Q value. This is an extension of single agent case, which means multiple agents update in parallel.
 ## Part 2
